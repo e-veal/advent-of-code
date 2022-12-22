@@ -58,8 +58,11 @@ done < $INPUT_FILE
 echo $TOTAL
 
 #### Part 2
-NEW_TOTAL=0
+
 echo "****** PART 2 ******"
+
+# variables
+NEW_TOTAL=0
 while IFS=" " read -r opp_choice outcome; do
     case $outcome in
         X)
