@@ -9,8 +9,6 @@ SUM=0
 EACH_ELF_TOTAL=[@]
 ELF_NUMBER=1
 
-mapfile -t TOTAL_CALORIES < $INPUT_FILE
-
 while read -r CALORIE; do
         if [ ! -z $CALORIE ]; then
             SUM=$(( $SUM + $CALORIE ))
