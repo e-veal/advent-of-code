@@ -29,7 +29,7 @@ In the above example, the priority of the item type that appears in both compart
 
 Find the item type that appears in both compartments of each rucksack. What is the sum of the priorities of those item types?
 
-Your puzzle answer was 7701.
+>! Your puzzle answer was 7701.
 
 The first half of this puzzle is complete! It provides one gold star: *
 
@@ -57,3 +57,7 @@ In the first group, the only item type that appears in all three rucksacks is lo
 Priorities for these items must still be found to organize the sticker attachment efforts: here, they are 18 (r) for the first group and 52 (Z) for the second group. The sum of these is 70.
 
 Find the item type that corresponds to the badges of each three-Elf group. What is the sum of the priorities of those item types?
+
+>! Your puzzle answer was 2644.
+
+Both parts of this puzzle are complete! They provide two gold stars: **
