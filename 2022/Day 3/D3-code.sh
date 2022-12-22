@@ -40,3 +40,4 @@ echo "****** PART 2 ******"
 # variables
 INPUT_FILE="D3-test.txt"
 
+## Couldn't figure out how to iterate through every 3 lines
