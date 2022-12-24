@@ -1,11 +1,10 @@
 #!/usr/bin/python3
 
 #### Part 2
-
 print("****** PART 2 ******")
 print("****** PART 2 ******", file=open('output.log','w'))
 
-####### MOVES ######## 
+#### Open File
 with open("D5-input.txt") as file:
 # with open("D5-test.txt") as file:
     lines = file.read().splitlines()
