@@ -1,0 +1,13389 @@
+****** PART 1 ******
+
+
+LINE
+moving:  C
+mFrom:  8
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  P
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 1
+moving:  N
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 2
+moving:  G
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 3
+moving:  D
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 4
+
+
+LINE
+moving:  C
+mFrom:  1
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 1
+moving:  L
+mFrom:  1
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 2
+moving:  Q
+mFrom:  1
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 3
+moving:  D
+mFrom:  1
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 4
+
+
+LINE
+moving:  S
+mFrom:  7
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 1
+moving:  M
+mFrom:  7
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 2
+moving:  D
+mFrom:  7
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 3
+moving:  P
+mFrom:  7
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 4
+moving:  C
+mFrom:  7
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 5
+
+
+LINE
+moving:  P
+mFrom:  8
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 1
+moving:  M
+mFrom:  8
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 2
+moving:  V
+mFrom:  8
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 3
+moving:  T
+mFrom:  8
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 4
+
+
+LINE
+moving:  S
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  B
+mFrom:  2
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  N
+mFrom:  2
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  C
+mFrom:  2
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  G
+mFrom:  3
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  C
+mFrom:  6
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 1
+moving:  P
+mFrom:  6
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 2
+moving:  D
+mFrom:  6
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 3
+moving:  M
+mFrom:  6
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 4
+moving:  S
+mFrom:  6
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 5
+moving:  W
+mFrom:  6
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 6
+moving:  C
+mFrom:  6
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 7
+moving:  F
+mFrom:  6
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 8
+moving:  V
+mFrom:  6
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 9
+moving:  P
+mFrom:  6
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 10
+moving:  Z
+mFrom:  6
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 11
+
+
+LINE
+moving:  Z
+mFrom:  4
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 1
+moving:  F
+mFrom:  4
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 2
+moving:  L
+mFrom:  4
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 3
+moving:  G
+mFrom:  4
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 4
+moving:  V
+mFrom:  4
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 5
+
+
+LINE
+moving:  D
+mFrom:  5
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  D
+mFrom:  6
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  D
+mFrom:  5
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  Q
+mFrom:  5
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  L
+mFrom:  5
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  W
+mFrom:  2
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  C
+mFrom:  5
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  W
+mFrom:  1
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 1
+moving:  Z
+mFrom:  1
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 2
+moving:  P
+mFrom:  1
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 3
+moving:  V
+mFrom:  1
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 4
+moving:  F
+mFrom:  1
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 5
+moving:  C
+mFrom:  1
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 6
+moving:  W
+mFrom:  1
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 7
+moving:  S
+mFrom:  1
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 8
+moving:  M
+mFrom:  1
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 9
+moving:  D
+mFrom:  1
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 10
+moving:  P
+mFrom:  1
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 11
+
+
+LINE
+moving:  W
+mFrom:  8
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  G
+mFrom:  2
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  G
+mFrom:  6
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 1
+moving:  L
+mFrom:  6
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 2
+moving:  Q
+mFrom:  6
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 3
+moving:  D
+mFrom:  6
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 4
+
+
+LINE
+moving:  R
+mFrom:  2
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  S
+mFrom:  2
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  P
+mFrom:  2
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  W
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 1
+moving:  C
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 2
+moving:  D
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 3
+moving:  S
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 4
+
+
+LINE
+moving:  P
+mFrom:  6
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  S
+mFrom:  6
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  R
+mFrom:  6
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  R
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  S
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  Q
+mFrom:  3
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 1
+moving:  B
+mFrom:  3
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 2
+moving:  H
+mFrom:  3
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 3
+moving:  D
+mFrom:  3
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 4
+moving:  C
+mFrom:  3
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 5
+
+
+LINE
+moving:  P
+mFrom:  5
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  C
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 26
+LOOP #: 1
+moving:  D
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 26
+LOOP #: 2
+moving:  H
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 26
+LOOP #: 3
+moving:  B
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 26
+LOOP #: 4
+moving:  Q
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 26
+LOOP #: 5
+moving:  P
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 26
+LOOP #: 6
+moving:  D
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 26
+LOOP #: 7
+moving:  M
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 26
+LOOP #: 8
+moving:  S
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 26
+LOOP #: 9
+moving:  W
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 26
+LOOP #: 10
+moving:  C
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 26
+LOOP #: 11
+moving:  F
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 26
+LOOP #: 12
+moving:  V
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 26
+LOOP #: 13
+moving:  P
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 26
+LOOP #: 14
+moving:  Z
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 26
+LOOP #: 15
+moving:  W
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 26
+LOOP #: 16
+moving:  V
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 26
+LOOP #: 17
+moving:  G
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 26
+LOOP #: 18
+moving:  L
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 26
+LOOP #: 19
+moving:  F
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 26
+LOOP #: 20
+moving:  Z
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 26
+LOOP #: 21
+moving:  C
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 26
+LOOP #: 22
+moving:  N
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 26
+LOOP #: 23
+moving:  B
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 26
+LOOP #: 24
+moving:  D
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 26
+LOOP #: 25
+moving:  G
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 26
+LOOP #: 26
+
+
+LINE
+moving:  L
+mFrom:  3
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  G
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 22
+LOOP #: 1
+moving:  D
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 22
+LOOP #: 2
+moving:  B
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 22
+LOOP #: 3
+moving:  N
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 22
+LOOP #: 4
+moving:  C
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 22
+LOOP #: 5
+moving:  Z
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 22
+LOOP #: 6
+moving:  F
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 22
+LOOP #: 7
+moving:  L
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 22
+LOOP #: 8
+moving:  G
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 22
+LOOP #: 9
+moving:  V
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 22
+LOOP #: 10
+moving:  W
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 22
+LOOP #: 11
+moving:  Z
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 22
+LOOP #: 12
+moving:  P
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 22
+LOOP #: 13
+moving:  V
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 22
+LOOP #: 14
+moving:  F
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 22
+LOOP #: 15
+moving:  C
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 22
+LOOP #: 16
+moving:  W
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 22
+LOOP #: 17
+moving:  S
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 22
+LOOP #: 18
+moving:  M
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 22
+LOOP #: 19
+moving:  D
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 22
+LOOP #: 20
+moving:  P
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 22
+LOOP #: 21
+moving:  Q
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 22
+LOOP #: 22
+
+
+LINE
+moving:  D
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 1
+moving:  Q
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 2
+moving:  L
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 3
+moving:  G
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 4
+
+
+LINE
+moving:  B
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  H
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  D
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  L
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  G
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 1
+moving:  L
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 2
+moving:  Q
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 3
+moving:  D
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 4
+moving:  N
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 5
+moving:  P
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 6
+
+
+LINE
+moving:  P
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  N
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  V
+mFrom:  0
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 1
+moving:  C
+mFrom:  0
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 2
+moving:  W
+mFrom:  0
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 3
+moving:  L
+mFrom:  0
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 4
+moving:  R
+mFrom:  0
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 5
+moving:  M
+mFrom:  0
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 6
+moving:  F
+mFrom:  0
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 7
+moving:  Q
+mFrom:  0
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 8
+
+
+LINE
+moving:  L
+mFrom:  2
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 1
+moving:  D
+mFrom:  2
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 2
+moving:  H
+mFrom:  2
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 3
+moving:  B
+mFrom:  2
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 4
+
+
+LINE
+moving:  S
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 1
+moving:  D
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 2
+moving:  C
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 3
+moving:  W
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 4
+moving:  C
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 5
+moving:  G
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 6
+moving:  T
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 7
+moving:  V
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 8
+moving:  M
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 9
+moving:  P
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 10
+
+
+LINE
+moving:  P
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 1
+moving:  M
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 2
+moving:  V
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 3
+moving:  T
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 4
+moving:  G
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 5
+moving:  C
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 6
+
+
+LINE
+moving:  Q
+mFrom:  8
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  F
+mFrom:  8
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  F
+mFrom:  4
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  C
+mFrom:  3
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 1
+moving:  G
+mFrom:  3
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 2
+moving:  T
+mFrom:  3
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 3
+moving:  V
+mFrom:  3
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 4
+moving:  M
+mFrom:  3
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 5
+moving:  P
+mFrom:  3
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 6
+moving:  B
+mFrom:  3
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 7
+moving:  H
+mFrom:  3
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 8
+
+
+LINE
+moving:  Q
+mFrom:  4
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  N
+mFrom:  4
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  S
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  N
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  R
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  P
+mFrom:  4
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  Q
+mFrom:  4
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  D
+mFrom:  3
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  D
+mFrom:  1
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  N
+mFrom:  0
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 1
+moving:  H
+mFrom:  0
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 2
+moving:  B
+mFrom:  0
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 3
+moving:  P
+mFrom:  0
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 4
+moving:  M
+mFrom:  0
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 5
+moving:  V
+mFrom:  0
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 6
+moving:  T
+mFrom:  0
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 7
+
+
+LINE
+moving:  W
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 1
+moving:  C
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 2
+moving:  D
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 3
+moving:  S
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 4
+moving:  D
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 5
+moving:  Q
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 6
+moving:  L
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 7
+moving:  G
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 8
+moving:  C
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 9
+
+
+LINE
+moving:  D
+mFrom:  2
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  Q
+mFrom:  1
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  P
+mFrom:  1
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  Q
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 1
+moving:  M
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 2
+moving:  R
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 3
+moving:  L
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 4
+moving:  W
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 5
+
+
+LINE
+moving:  P
+mFrom:  3
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  C
+mFrom:  8
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  V
+mFrom:  8
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  G
+mFrom:  0
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  G
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  W
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  L
+mFrom:  5
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  R
+mFrom:  5
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  N
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  Z
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  V
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  V
+mFrom:  8
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  Z
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  N
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  W
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  Q
+mFrom:  3
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 1
+moving:  D
+mFrom:  3
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 2
+moving:  C
+mFrom:  3
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 3
+moving:  G
+mFrom:  3
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 4
+moving:  L
+mFrom:  3
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 5
+moving:  Q
+mFrom:  3
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 6
+moving:  D
+mFrom:  3
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 7
+
+
+LINE
+moving:  G
+mFrom:  0
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  C
+mFrom:  0
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  N
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  Z
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  C
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  C
+mFrom:  7
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  Z
+mFrom:  7
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  N
+mFrom:  7
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  D
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 1
+moving:  Q
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 2
+moving:  L
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 3
+moving:  G
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 4
+moving:  C
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 5
+moving:  D
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 6
+moving:  Q
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 7
+moving:  V
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 8
+moving:  R
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 9
+moving:  L
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 10
+moving:  P
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 11
+moving:  P
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 12
+moving:  D
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 13
+moving:  M
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 14
+moving:  S
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 15
+moving:  W
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 16
+moving:  C
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 17
+moving:  F
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 18
+moving:  V
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 19
+moving:  P
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 20
+moving:  Z
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 21
+moving:  W
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 22
+moving:  V
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 23
+moving:  G
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 24
+moving:  L
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 25
+moving:  F
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 26
+moving:  Z
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 27
+moving:  C
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 28
+moving:  N
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 29
+moving:  B
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 30
+moving:  D
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 31
+
+
+LINE
+moving:  W
+mFrom:  6
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  C
+mFrom:  1
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  C
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  C
+mFrom:  4
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  G
+mFrom:  4
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  P
+mFrom:  4
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  S
+mFrom:  3
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 1
+moving:  D
+mFrom:  3
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 2
+moving:  C
+mFrom:  3
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 3
+moving:  W
+mFrom:  3
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 4
+moving:  T
+mFrom:  3
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 5
+moving:  V
+mFrom:  3
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 6
+moving:  M
+mFrom:  3
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 7
+moving:  P
+mFrom:  3
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 8
+moving:  B
+mFrom:  3
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 9
+moving:  H
+mFrom:  3
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 10
+
+
+LINE
+moving:  C
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 1
+moving:  M
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 2
+moving:  Q
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 3
+moving:  R
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 4
+moving:  S
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 5
+
+
+LINE
+moving:  S
+mFrom:  1
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  R
+mFrom:  1
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  Q
+mFrom:  1
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  P
+mFrom:  6
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  G
+mFrom:  6
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  Q
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  N
+mFrom:  3
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  Q
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  L
+mFrom:  3
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  N
+mFrom:  0
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  W
+mFrom:  0
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  G
+mFrom:  7
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  P
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 1
+moving:  D
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 2
+moving:  B
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 3
+moving:  N
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 4
+moving:  C
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 5
+moving:  Z
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 6
+moving:  F
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 7
+moving:  L
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 8
+moving:  G
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 9
+moving:  V
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 10
+
+
+LINE
+moving:  V
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 1
+moving:  G
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 2
+moving:  L
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 3
+moving:  F
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 4
+moving:  Z
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 5
+moving:  C
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 6
+moving:  N
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 7
+moving:  B
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 8
+moving:  D
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 9
+moving:  P
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 10
+moving:  W
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 11
+moving:  N
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 12
+moving:  L
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 13
+
+
+LINE
+moving:  F
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  W
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 1
+moving:  Z
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 2
+moving:  P
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 3
+moving:  V
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 4
+moving:  F
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 5
+moving:  C
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 6
+moving:  W
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 7
+moving:  S
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 8
+moving:  M
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 9
+moving:  D
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 10
+moving:  P
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 11
+moving:  P
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 12
+moving:  L
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 13
+moving:  R
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 14
+moving:  V
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 15
+moving:  Q
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 16
+moving:  D
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 17
+moving:  C
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 18
+
+
+LINE
+moving:  L
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 21
+LOOP #: 1
+moving:  N
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 21
+LOOP #: 2
+moving:  W
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 21
+LOOP #: 3
+moving:  P
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 21
+LOOP #: 4
+moving:  D
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 21
+LOOP #: 5
+moving:  B
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 21
+LOOP #: 6
+moving:  N
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 21
+LOOP #: 7
+moving:  C
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 21
+LOOP #: 8
+moving:  Z
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 21
+LOOP #: 9
+moving:  F
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 21
+LOOP #: 10
+moving:  L
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 21
+LOOP #: 11
+moving:  G
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 21
+LOOP #: 12
+moving:  V
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 21
+LOOP #: 13
+moving:  H
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 21
+LOOP #: 14
+moving:  B
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 21
+LOOP #: 15
+moving:  P
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 21
+LOOP #: 16
+moving:  M
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 21
+LOOP #: 17
+moving:  V
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 21
+LOOP #: 18
+moving:  T
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 21
+LOOP #: 19
+moving:  W
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 21
+LOOP #: 20
+moving:  C
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 21
+LOOP #: 21
+
+
+LINE
+moving:  G
+mFrom:  6
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  D
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  S
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  C
+mFrom:  1
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  S
+mFrom:  6
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  D
+mFrom:  1
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 1
+moving:  Q
+mFrom:  1
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 2
+moving:  V
+mFrom:  1
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 3
+moving:  R
+mFrom:  1
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 4
+moving:  L
+mFrom:  1
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 5
+moving:  P
+mFrom:  1
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 6
+moving:  P
+mFrom:  1
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 7
+moving:  D
+mFrom:  1
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 8
+moving:  M
+mFrom:  1
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 9
+
+
+LINE
+moving:  D
+mFrom:  6
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  N
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  Z
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  C
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  D
+mFrom:  7
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  S
+mFrom:  1
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 1
+moving:  W
+mFrom:  1
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 2
+moving:  C
+mFrom:  1
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 3
+moving:  F
+mFrom:  1
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 4
+moving:  V
+mFrom:  1
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 5
+moving:  P
+mFrom:  1
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 6
+
+
+LINE
+moving:  M
+mFrom:  3
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 1
+moving:  D
+mFrom:  3
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 2
+moving:  P
+mFrom:  3
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 3
+moving:  P
+mFrom:  3
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 4
+moving:  L
+mFrom:  3
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 5
+
+
+LINE
+moving:  F
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  R
+mFrom:  3
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  V
+mFrom:  3
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  L
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 1
+moving:  P
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 2
+moving:  P
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 3
+moving:  D
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 4
+moving:  M
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 5
+
+
+LINE
+moving:  Z
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  W
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  C
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 1
+moving:  W
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 2
+moving:  T
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 3
+moving:  V
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 4
+moving:  M
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 5
+moving:  P
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 6
+moving:  B
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 7
+moving:  H
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 8
+moving:  V
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 9
+moving:  G
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 10
+moving:  L
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 11
+moving:  F
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 12
+moving:  Z
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 13
+moving:  C
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 14
+moving:  N
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 15
+
+
+LINE
+moving:  N
+mFrom:  0
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 1
+moving:  C
+mFrom:  0
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 2
+moving:  Z
+mFrom:  0
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 3
+moving:  F
+mFrom:  0
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 4
+moving:  L
+mFrom:  0
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 5
+moving:  G
+mFrom:  0
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 6
+moving:  V
+mFrom:  0
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 7
+moving:  H
+mFrom:  0
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 8
+moving:  B
+mFrom:  0
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 9
+moving:  P
+mFrom:  0
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 10
+moving:  M
+mFrom:  0
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 11
+moving:  V
+mFrom:  0
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 12
+
+
+LINE
+moving:  V
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 1
+moving:  M
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 2
+moving:  P
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 3
+moving:  B
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 4
+moving:  H
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 5
+moving:  V
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 6
+
+
+LINE
+moving:  V
+mFrom:  8
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 1
+moving:  H
+mFrom:  8
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 2
+moving:  B
+mFrom:  8
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 3
+moving:  P
+mFrom:  8
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 4
+
+
+LINE
+moving:  P
+mFrom:  4
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 1
+moving:  B
+mFrom:  4
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 2
+moving:  H
+mFrom:  4
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 3
+moving:  V
+mFrom:  4
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 4
+
+
+LINE
+moving:  M
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 1
+moving:  D
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 2
+moving:  P
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 3
+moving:  P
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 4
+moving:  L
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 5
+moving:  V
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 6
+moving:  R
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 7
+moving:  P
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 8
+moving:  V
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 9
+moving:  F
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 10
+moving:  C
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 11
+moving:  W
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 12
+moving:  S
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 13
+moving:  C
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 14
+
+
+LINE
+moving:  V
+mFrom:  5
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  V
+mFrom:  6
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  W
+mFrom:  6
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  V
+mFrom:  1
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 1
+moving:  G
+mFrom:  1
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 2
+moving:  L
+mFrom:  1
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 3
+moving:  F
+mFrom:  1
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 4
+moving:  Z
+mFrom:  1
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 5
+moving:  C
+mFrom:  1
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 6
+moving:  N
+mFrom:  1
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 7
+moving:  M
+mFrom:  1
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 8
+moving:  C
+mFrom:  1
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 9
+
+
+LINE
+moving:  T
+mFrom:  0
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  C
+mFrom:  8
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  S
+mFrom:  8
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  W
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 1
+moving:  C
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 2
+moving:  F
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 3
+moving:  V
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 4
+
+
+LINE
+moving:  W
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  S
+mFrom:  7
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 1
+moving:  C
+mFrom:  7
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 2
+moving:  W
+mFrom:  7
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 3
+moving:  F
+mFrom:  7
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 4
+moving:  S
+mFrom:  7
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 5
+moving:  G
+mFrom:  7
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 6
+moving:  G
+mFrom:  7
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 7
+moving:  L
+mFrom:  7
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 8
+
+
+LINE
+moving:  W
+mFrom:  4
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  C
+mFrom:  0
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  D
+mFrom:  0
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  C
+mFrom:  0
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  Z
+mFrom:  0
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  N
+mFrom:  0
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  T
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 1
+moving:  C
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 2
+moving:  M
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 3
+moving:  N
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 4
+moving:  C
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 5
+moving:  Z
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 6
+moving:  F
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 7
+moving:  L
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 8
+moving:  G
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 9
+
+
+LINE
+moving:  V
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  Q
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  V
+mFrom:  5
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  F
+mFrom:  6
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 1
+moving:  C
+mFrom:  6
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 2
+moving:  W
+mFrom:  6
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 3
+moving:  Z
+mFrom:  6
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 4
+
+
+LINE
+moving:  H
+mFrom:  5
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 1
+moving:  B
+mFrom:  5
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 2
+moving:  P
+mFrom:  5
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 3
+moving:  B
+mFrom:  5
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 4
+moving:  D
+mFrom:  5
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 5
+moving:  P
+mFrom:  5
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 6
+moving:  W
+mFrom:  5
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 7
+moving:  N
+mFrom:  5
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 8
+moving:  L
+mFrom:  5
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 9
+moving:  Q
+mFrom:  5
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 10
+moving:  R
+mFrom:  5
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 11
+moving:  S
+mFrom:  5
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 12
+
+
+LINE
+moving:  Q
+mFrom:  1
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  G
+mFrom:  1
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  L
+mFrom:  1
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  S
+mFrom:  7
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 1
+moving:  R
+mFrom:  7
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 2
+moving:  Q
+mFrom:  7
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 3
+moving:  L
+mFrom:  7
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 4
+moving:  N
+mFrom:  7
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 5
+moving:  W
+mFrom:  7
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 6
+
+
+LINE
+moving:  L
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 1
+moving:  G
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 2
+moving:  G
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 3
+moving:  S
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 4
+moving:  F
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 5
+
+
+LINE
+moving:  W
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  C
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  S
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  L
+mFrom:  0
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  G
+mFrom:  0
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  Q
+mFrom:  0
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  F
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 1
+moving:  Z
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 2
+moving:  C
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 3
+moving:  N
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 4
+moving:  M
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 5
+moving:  C
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 6
+moving:  T
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 7
+moving:  D
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 8
+
+
+LINE
+moving:  V
+mFrom:  3
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  V
+mFrom:  3
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  W
+mFrom:  6
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  N
+mFrom:  6
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  P
+mFrom:  7
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 1
+moving:  D
+mFrom:  7
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 2
+moving:  B
+mFrom:  7
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 3
+moving:  P
+mFrom:  7
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 4
+moving:  B
+mFrom:  7
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 5
+moving:  H
+mFrom:  7
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 6
+moving:  Z
+mFrom:  7
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 7
+moving:  W
+mFrom:  7
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 8
+moving:  C
+mFrom:  7
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 9
+moving:  F
+mFrom:  7
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 10
+
+
+LINE
+moving:  Q
+mFrom:  2
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  G
+mFrom:  2
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  L
+mFrom:  2
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  F
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 1
+moving:  C
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 2
+moving:  W
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 3
+moving:  Z
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 4
+moving:  H
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 5
+moving:  B
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 6
+moving:  P
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 7
+moving:  B
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 8
+moving:  D
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 9
+moving:  P
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 10
+
+
+LINE
+moving:  N
+mFrom:  3
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  L
+mFrom:  1
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  L
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  D
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 1
+moving:  T
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 2
+moving:  C
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 3
+moving:  M
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 4
+moving:  N
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 5
+moving:  C
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 6
+moving:  Z
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 7
+moving:  F
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 8
+moving:  P
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 9
+moving:  R
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 10
+moving:  V
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 11
+moving:  L
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 12
+moving:  P
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 13
+moving:  P
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 14
+
+
+LINE
+moving:  G
+mFrom:  1
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 1
+moving:  Q
+mFrom:  1
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 2
+moving:  N
+mFrom:  1
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 3
+moving:  W
+mFrom:  1
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 4
+moving:  C
+mFrom:  1
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 5
+
+
+LINE
+moving:  P
+mFrom:  5
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 1
+moving:  P
+mFrom:  5
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 2
+moving:  L
+mFrom:  5
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 3
+moving:  V
+mFrom:  5
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 4
+moving:  R
+mFrom:  5
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 5
+moving:  P
+mFrom:  5
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 6
+moving:  F
+mFrom:  5
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 7
+moving:  Z
+mFrom:  5
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 8
+moving:  C
+mFrom:  5
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 9
+moving:  N
+mFrom:  5
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 10
+moving:  M
+mFrom:  5
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 11
+moving:  C
+mFrom:  5
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 12
+moving:  T
+mFrom:  5
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 13
+moving:  D
+mFrom:  5
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 14
+moving:  S
+mFrom:  5
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 15
+
+
+LINE
+moving:  D
+mFrom:  8
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  M
+mFrom:  8
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  M
+mFrom:  8
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  D
+mFrom:  7
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  M
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  M
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 1
+moving:  D
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 2
+moving:  N
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 3
+moving:  P
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 4
+moving:  D
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 5
+moving:  B
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 6
+moving:  P
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 7
+
+
+LINE
+moving:  S
+mFrom:  4
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 1
+moving:  D
+mFrom:  4
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 2
+moving:  T
+mFrom:  4
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 3
+moving:  C
+mFrom:  4
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 4
+moving:  M
+mFrom:  4
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 5
+moving:  N
+mFrom:  4
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 6
+moving:  C
+mFrom:  4
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 7
+moving:  Z
+mFrom:  4
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 8
+moving:  F
+mFrom:  4
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 9
+moving:  P
+mFrom:  4
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 10
+moving:  R
+mFrom:  4
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 11
+moving:  V
+mFrom:  4
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 12
+moving:  L
+mFrom:  4
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 13
+moving:  P
+mFrom:  4
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 14
+moving:  P
+mFrom:  4
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 15
+moving:  V
+mFrom:  4
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 16
+
+
+LINE
+moving:  L
+mFrom:  6
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  L
+mFrom:  6
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  V
+mFrom:  4
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  V
+mFrom:  8
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  V
+mFrom:  8
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  L
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 1
+moving:  L
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 2
+moving:  V
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 3
+moving:  P
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 4
+moving:  P
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 5
+moving:  L
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 6
+moving:  V
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 7
+moving:  R
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 8
+moving:  P
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 9
+moving:  F
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 10
+moving:  Z
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 11
+moving:  C
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 12
+moving:  N
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 13
+moving:  M
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 14
+moving:  C
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 15
+
+
+LINE
+moving:  P
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  B
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  D
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  V
+mFrom:  2
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  V
+mFrom:  2
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  B
+mFrom:  2
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  Q
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  R
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  S
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  C
+mFrom:  3
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 1
+moving:  W
+mFrom:  3
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 2
+moving:  N
+mFrom:  3
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 3
+moving:  Q
+mFrom:  3
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 4
+moving:  G
+mFrom:  3
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 5
+moving:  Z
+mFrom:  3
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 6
+moving:  C
+mFrom:  3
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 7
+moving:  W
+mFrom:  3
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 8
+
+
+LINE
+moving:  B
+mFrom:  0
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 1
+moving:  V
+mFrom:  0
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 2
+moving:  V
+mFrom:  0
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 3
+moving:  T
+mFrom:  0
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 4
+moving:  D
+mFrom:  0
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 5
+
+
+LINE
+moving:  C
+mFrom:  4
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 1
+moving:  M
+mFrom:  4
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 2
+moving:  N
+mFrom:  4
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 3
+moving:  C
+mFrom:  4
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 4
+moving:  Z
+mFrom:  4
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 5
+moving:  F
+mFrom:  4
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 6
+moving:  P
+mFrom:  4
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 7
+moving:  R
+mFrom:  4
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 8
+moving:  V
+mFrom:  4
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 9
+
+
+LINE
+moving:  P
+mFrom:  7
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  N
+mFrom:  7
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  D
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  B
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  S
+mFrom:  0
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  L
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  P
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  N
+mFrom:  2
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 1
+moving:  P
+mFrom:  2
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 2
+moving:  S
+mFrom:  2
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 3
+moving:  R
+mFrom:  2
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 4
+
+
+LINE
+moving:  P
+mFrom:  7
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 1
+moving:  L
+mFrom:  7
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 2
+moving:  D
+mFrom:  7
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 3
+moving:  M
+mFrom:  7
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 4
+
+
+LINE
+moving:  M
+mFrom:  7
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  B
+mFrom:  6
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 1
+moving:  D
+mFrom:  6
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 2
+moving:  V
+mFrom:  6
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 3
+moving:  R
+mFrom:  6
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 4
+moving:  P
+mFrom:  6
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 5
+moving:  F
+mFrom:  6
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 6
+moving:  Z
+mFrom:  6
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 7
+moving:  C
+mFrom:  6
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 8
+moving:  N
+mFrom:  6
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 9
+
+
+LINE
+moving:  M
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  C
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  M
+mFrom:  0
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  D
+mFrom:  0
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  L
+mFrom:  0
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  S
+mFrom:  3
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  P
+mFrom:  1
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  N
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 1
+moving:  C
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 2
+moving:  Z
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 3
+moving:  F
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 4
+moving:  P
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 5
+moving:  R
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 6
+moving:  V
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 7
+moving:  D
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 8
+moving:  B
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 9
+moving:  M
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 10
+moving:  D
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 11
+moving:  T
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 12
+
+
+LINE
+moving:  S
+mFrom:  7
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  L
+mFrom:  7
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  D
+mFrom:  7
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  P
+mFrom:  3
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  D
+mFrom:  5
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  L
+mFrom:  5
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  C
+mFrom:  4
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 1
+moving:  M
+mFrom:  4
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 2
+moving:  P
+mFrom:  4
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 3
+moving:  V
+mFrom:  4
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 4
+moving:  L
+mFrom:  4
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 5
+
+
+LINE
+moving:  T
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 1
+moving:  D
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 2
+moving:  M
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 3
+moving:  B
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 4
+moving:  D
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 5
+moving:  V
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 6
+moving:  R
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 7
+moving:  P
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 8
+moving:  F
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 9
+moving:  Z
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 10
+moving:  C
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 11
+moving:  N
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 12
+moving:  G
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 13
+
+
+LINE
+moving:  Q
+mFrom:  3
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  D
+mFrom:  3
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  G
+mFrom:  8
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 1
+moving:  N
+mFrom:  8
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 2
+moving:  C
+mFrom:  8
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 3
+moving:  Z
+mFrom:  8
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 4
+moving:  F
+mFrom:  8
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 5
+moving:  P
+mFrom:  8
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 6
+moving:  R
+mFrom:  8
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 7
+moving:  V
+mFrom:  8
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 8
+moving:  D
+mFrom:  8
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 9
+moving:  B
+mFrom:  8
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 10
+moving:  M
+mFrom:  8
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 11
+moving:  D
+mFrom:  8
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 12
+moving:  T
+mFrom:  8
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 13
+
+
+LINE
+moving:  S
+mFrom:  5
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  V
+mFrom:  5
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  Q
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  Q
+mFrom:  8
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 1
+moving:  L
+mFrom:  8
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 2
+moving:  V
+mFrom:  8
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 3
+moving:  P
+mFrom:  8
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 4
+moving:  M
+mFrom:  8
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 5
+moving:  C
+mFrom:  8
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 6
+
+
+LINE
+moving:  P
+mFrom:  0
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 1
+moving:  R
+mFrom:  0
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 2
+moving:  S
+mFrom:  0
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 3
+moving:  P
+mFrom:  0
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 4
+moving:  N
+mFrom:  0
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 5
+
+
+LINE
+moving:  D
+mFrom:  6
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  V
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 1
+moving:  S
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 2
+moving:  T
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 3
+moving:  D
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 4
+moving:  M
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 5
+moving:  B
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 6
+moving:  D
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 7
+moving:  V
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 8
+moving:  R
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 9
+moving:  P
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 10
+moving:  F
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 11
+moving:  Z
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 12
+moving:  C
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 13
+moving:  N
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 14
+moving:  G
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 15
+
+
+LINE
+moving:  C
+mFrom:  3
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  M
+mFrom:  3
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  P
+mFrom:  3
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  V
+mFrom:  3
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  L
+mFrom:  3
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  L
+mFrom:  4
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  L
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 1
+moving:  V
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 2
+moving:  P
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 3
+moving:  V
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 4
+moving:  B
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 5
+moving:  W
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 6
+moving:  C
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 7
+moving:  Z
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 8
+moving:  G
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 9
+moving:  Q
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 10
+moving:  N
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 11
+moving:  W
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 12
+moving:  C
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 13
+moving:  D
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 14
+moving:  C
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 15
+moving:  W
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 16
+moving:  F
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 17
+moving:  S
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 18
+
+
+LINE
+moving:  L
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  M
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  G
+mFrom:  5
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  G
+mFrom:  5
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  L
+mFrom:  5
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  S
+mFrom:  1
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  F
+mFrom:  1
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  W
+mFrom:  1
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  L
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 1
+moving:  G
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 2
+moving:  G
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 3
+moving:  C
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 4
+moving:  Q
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 5
+
+
+LINE
+moving:  D
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  Q
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  C
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  G
+mFrom:  2
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 1
+moving:  G
+mFrom:  2
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 2
+moving:  L
+mFrom:  2
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 3
+moving:  M
+mFrom:  2
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 4
+moving:  L
+mFrom:  2
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 5
+moving:  N
+mFrom:  2
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 6
+moving:  P
+mFrom:  2
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 7
+moving:  S
+mFrom:  2
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 8
+moving:  R
+mFrom:  2
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 9
+moving:  P
+mFrom:  2
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 10
+moving:  H
+mFrom:  2
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 11
+
+
+LINE
+moving:  H
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  P
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  D
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  P
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  P
+mFrom:  4
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  C
+mFrom:  7
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 1
+moving:  Q
+mFrom:  7
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 2
+moving:  W
+mFrom:  7
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 3
+moving:  F
+mFrom:  7
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 4
+moving:  S
+mFrom:  7
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 5
+moving:  G
+mFrom:  7
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 6
+moving:  N
+mFrom:  7
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 7
+moving:  C
+mFrom:  7
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 8
+moving:  Z
+mFrom:  7
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 9
+
+
+LINE
+moving:  Z
+mFrom:  3
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  Z
+mFrom:  2
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  W
+mFrom:  2
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  W
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  Z
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  F
+mFrom:  7
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 1
+moving:  P
+mFrom:  7
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 2
+moving:  R
+mFrom:  7
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 3
+moving:  V
+mFrom:  7
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 4
+moving:  D
+mFrom:  7
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 5
+moving:  B
+mFrom:  7
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 6
+moving:  M
+mFrom:  7
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 7
+moving:  D
+mFrom:  7
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 8
+moving:  T
+mFrom:  7
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 9
+moving:  S
+mFrom:  7
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 10
+moving:  V
+mFrom:  7
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 11
+moving:  L
+mFrom:  7
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 12
+
+
+LINE
+moving:  D
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  L
+mFrom:  2
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 1
+moving:  V
+mFrom:  2
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 2
+moving:  S
+mFrom:  2
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 3
+moving:  T
+mFrom:  2
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 4
+moving:  D
+mFrom:  2
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 5
+moving:  M
+mFrom:  2
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 6
+moving:  B
+mFrom:  2
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 7
+moving:  D
+mFrom:  2
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 8
+moving:  V
+mFrom:  2
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 9
+moving:  R
+mFrom:  2
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 10
+moving:  P
+mFrom:  2
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 11
+moving:  F
+mFrom:  2
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 12
+moving:  C
+mFrom:  2
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 13
+moving:  F
+mFrom:  2
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 14
+
+
+LINE
+moving:  Z
+mFrom:  5
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  Z
+mFrom:  4
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  D
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 20
+LOOP #: 1
+moving:  D
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 20
+LOOP #: 2
+moving:  R
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 20
+LOOP #: 3
+moving:  S
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 20
+LOOP #: 4
+moving:  P
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 20
+LOOP #: 5
+moving:  N
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 20
+LOOP #: 6
+moving:  L
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 20
+LOOP #: 7
+moving:  M
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 20
+LOOP #: 8
+moving:  L
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 20
+LOOP #: 9
+moving:  G
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 20
+LOOP #: 10
+moving:  G
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 20
+LOOP #: 11
+moving:  C
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 20
+LOOP #: 12
+moving:  D
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 20
+LOOP #: 13
+moving:  C
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 20
+LOOP #: 14
+moving:  W
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 20
+LOOP #: 15
+moving:  N
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 20
+LOOP #: 16
+moving:  Q
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 20
+LOOP #: 17
+moving:  G
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 20
+LOOP #: 18
+moving:  Z
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 20
+LOOP #: 19
+moving:  C
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 20
+LOOP #: 20
+
+
+LINE
+moving:  P
+mFrom:  8
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  P
+mFrom:  8
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  P
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  H
+mFrom:  8
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  H
+mFrom:  1
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  W
+mFrom:  1
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  B
+mFrom:  1
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  Z
+mFrom:  3
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 1
+moving:  Z
+mFrom:  3
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 2
+moving:  F
+mFrom:  3
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 3
+moving:  C
+mFrom:  3
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 4
+moving:  F
+mFrom:  3
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 5
+
+
+LINE
+moving:  F
+mFrom:  4
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 1
+moving:  C
+mFrom:  4
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 2
+moving:  F
+mFrom:  4
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 3
+moving:  Z
+mFrom:  4
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 4
+moving:  Z
+mFrom:  4
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 5
+moving:  P
+mFrom:  4
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 6
+
+
+LINE
+moving:  H
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  M
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  B
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  W
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  P
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  P
+mFrom:  3
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 1
+moving:  R
+mFrom:  3
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 2
+moving:  V
+mFrom:  3
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 3
+moving:  D
+mFrom:  3
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 4
+moving:  B
+mFrom:  3
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 5
+
+
+LINE
+moving:  P
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  W
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  M
+mFrom:  1
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  H
+mFrom:  1
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  B
+mFrom:  8
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  W
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 22
+LOOP #: 1
+moving:  P
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 22
+LOOP #: 2
+moving:  P
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 22
+LOOP #: 3
+moving:  Z
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 22
+LOOP #: 4
+moving:  Z
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 22
+LOOP #: 5
+moving:  F
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 22
+LOOP #: 6
+moving:  C
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 22
+LOOP #: 7
+moving:  F
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 22
+LOOP #: 8
+moving:  C
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 22
+LOOP #: 9
+moving:  Z
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 22
+LOOP #: 10
+moving:  G
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 22
+LOOP #: 11
+moving:  Q
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 22
+LOOP #: 12
+moving:  N
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 22
+LOOP #: 13
+moving:  W
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 22
+LOOP #: 14
+moving:  C
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 22
+LOOP #: 15
+moving:  D
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 22
+LOOP #: 16
+moving:  C
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 22
+LOOP #: 17
+moving:  G
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 22
+LOOP #: 18
+moving:  G
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 22
+LOOP #: 19
+moving:  L
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 22
+LOOP #: 20
+moving:  M
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 22
+LOOP #: 21
+moving:  L
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 22
+LOOP #: 22
+
+
+LINE
+moving:  N
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 1
+moving:  P
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 2
+moving:  S
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 3
+moving:  R
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 4
+
+
+LINE
+moving:  L
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 24
+LOOP #: 1
+moving:  M
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 24
+LOOP #: 2
+moving:  L
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 24
+LOOP #: 3
+moving:  G
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 24
+LOOP #: 4
+moving:  G
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 24
+LOOP #: 5
+moving:  C
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 24
+LOOP #: 6
+moving:  D
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 24
+LOOP #: 7
+moving:  C
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 24
+LOOP #: 8
+moving:  W
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 24
+LOOP #: 9
+moving:  N
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 24
+LOOP #: 10
+moving:  Q
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 24
+LOOP #: 11
+moving:  G
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 24
+LOOP #: 12
+moving:  Z
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 24
+LOOP #: 13
+moving:  C
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 24
+LOOP #: 14
+moving:  F
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 24
+LOOP #: 15
+moving:  C
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 24
+LOOP #: 16
+moving:  F
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 24
+LOOP #: 17
+moving:  Z
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 24
+LOOP #: 18
+moving:  Z
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 24
+LOOP #: 19
+moving:  P
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 24
+LOOP #: 20
+moving:  P
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 24
+LOOP #: 21
+moving:  W
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 24
+LOOP #: 22
+moving:  B
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 24
+LOOP #: 23
+moving:  H
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 24
+LOOP #: 24
+
+
+LINE
+moving:  V
+mFrom:  1
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 1
+moving:  P
+mFrom:  1
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 2
+moving:  V
+mFrom:  1
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 3
+moving:  L
+mFrom:  1
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 4
+
+
+LINE
+moving:  L
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 1
+moving:  V
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 2
+moving:  P
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 3
+moving:  V
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 4
+moving:  H
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 5
+moving:  B
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 6
+moving:  W
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 7
+moving:  P
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 8
+moving:  P
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 9
+moving:  Z
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 10
+moving:  Z
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 11
+moving:  F
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 12
+moving:  C
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 13
+moving:  F
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 14
+moving:  C
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 15
+moving:  Z
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 16
+moving:  G
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 17
+moving:  Q
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 18
+LOOP #: 18
+
+
+LINE
+moving:  R
+mFrom:  3
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 1
+moving:  S
+mFrom:  3
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 2
+moving:  P
+mFrom:  3
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 3
+moving:  N
+mFrom:  3
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 4
+moving:  M
+mFrom:  3
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 5
+moving:  D
+mFrom:  3
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 6
+moving:  T
+mFrom:  3
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 7
+moving:  S
+mFrom:  3
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 8
+moving:  V
+mFrom:  3
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 9
+moving:  L
+mFrom:  3
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 10
+moving:  C
+mFrom:  3
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 11
+moving:  N
+mFrom:  3
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 12
+moving:  G
+mFrom:  3
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 13
+moving:  S
+mFrom:  3
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 14
+moving:  F
+mFrom:  3
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 15
+
+
+LINE
+moving:  F
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 1
+moving:  S
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 2
+moving:  G
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 3
+moving:  N
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 4
+moving:  C
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 5
+moving:  L
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 6
+moving:  V
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 7
+moving:  S
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 8
+
+
+LINE
+moving:  T
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 1
+moving:  D
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 2
+moving:  M
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 3
+moving:  N
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 4
+moving:  P
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 5
+moving:  S
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 6
+
+
+LINE
+moving:  Q
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 1
+moving:  G
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 2
+moving:  Z
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 3
+moving:  C
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 4
+moving:  F
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 5
+moving:  C
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 6
+moving:  F
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 7
+
+
+LINE
+moving:  D
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  D
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  S
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 1
+moving:  V
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 2
+moving:  L
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 3
+moving:  C
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 4
+moving:  N
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 5
+moving:  G
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 6
+moving:  S
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 7
+moving:  F
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 8
+
+
+LINE
+moving:  F
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 1
+moving:  C
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 2
+moving:  F
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 3
+moving:  C
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 4
+moving:  Z
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 5
+moving:  G
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 6
+moving:  Q
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 7
+moving:  R
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 8
+moving:  N
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 9
+moving:  W
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 10
+moving:  C
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 11
+moving:  D
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 12
+moving:  C
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 13
+moving:  G
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 14
+
+
+LINE
+moving:  G
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  C
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  C
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  G
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 1
+moving:  F
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 2
+moving:  S
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 3
+moving:  G
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 4
+moving:  N
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 5
+moving:  C
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 6
+moving:  L
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 7
+moving:  V
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 8
+moving:  S
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 9
+moving:  Z
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 10
+moving:  Z
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 11
+moving:  P
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 12
+moving:  P
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 13
+
+
+LINE
+moving:  D
+mFrom:  3
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  D
+mFrom:  3
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  W
+mFrom:  3
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  W
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  P
+mFrom:  0
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 1
+moving:  P
+mFrom:  0
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 2
+moving:  Z
+mFrom:  0
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 3
+moving:  Z
+mFrom:  0
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 4
+moving:  S
+mFrom:  0
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 5
+
+
+LINE
+moving:  D
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  C
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  W
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  V
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  L
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  L
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 1
+moving:  V
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 2
+moving:  W
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 3
+moving:  D
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 4
+moving:  D
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 5
+moving:  B
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 6
+moving:  D
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 7
+moving:  V
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 8
+
+
+LINE
+moving:  N
+mFrom:  2
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 1
+moving:  R
+mFrom:  2
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 2
+moving:  Q
+mFrom:  2
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 3
+moving:  G
+mFrom:  2
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 4
+moving:  Z
+mFrom:  2
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 5
+moving:  C
+mFrom:  2
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 6
+moving:  F
+mFrom:  2
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 7
+moving:  C
+mFrom:  2
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 8
+moving:  F
+mFrom:  2
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 9
+moving:  M
+mFrom:  2
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 10
+
+
+LINE
+moving:  Q
+mFrom:  3
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  C
+mFrom:  3
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  Q
+mFrom:  3
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  C
+mFrom:  0
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 1
+moving:  N
+mFrom:  0
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 2
+moving:  G
+mFrom:  0
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 3
+moving:  S
+mFrom:  0
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 4
+moving:  F
+mFrom:  0
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 5
+moving:  G
+mFrom:  0
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 6
+
+
+LINE
+moving:  M
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 1
+moving:  F
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 2
+moving:  C
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 3
+moving:  F
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 4
+
+
+LINE
+moving:  V
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 1
+moving:  D
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 2
+moving:  B
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 3
+moving:  D
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 4
+moving:  D
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 5
+
+
+LINE
+moving:  Q
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 1
+moving:  C
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 2
+moving:  Q
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 3
+moving:  W
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 4
+moving:  C
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 5
+moving:  G
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 6
+
+
+LINE
+moving:  G
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 1
+moving:  C
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 2
+moving:  W
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 3
+moving:  Q
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 4
+moving:  C
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 5
+moving:  Q
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 6
+moving:  F
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 7
+
+
+LINE
+moving:  C
+mFrom:  2
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  W
+mFrom:  7
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 1
+moving:  V
+mFrom:  7
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 2
+moving:  L
+mFrom:  7
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 3
+moving:  S
+mFrom:  7
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 4
+moving:  Z
+mFrom:  7
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 5
+
+
+LINE
+moving:  D
+mFrom:  1
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 1
+moving:  D
+mFrom:  1
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 2
+moving:  B
+mFrom:  1
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 3
+moving:  D
+mFrom:  1
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 4
+moving:  V
+mFrom:  1
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 5
+
+
+LINE
+moving:  Z
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  S
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  L
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  V
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  W
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  C
+mFrom:  3
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  V
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 1
+moving:  D
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 2
+moving:  B
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 3
+moving:  D
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 4
+moving:  D
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 5
+moving:  F
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 6
+moving:  Q
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 7
+moving:  C
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 8
+moving:  Q
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 9
+
+
+LINE
+moving:  W
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  C
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  Z
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  P
+mFrom:  7
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  P
+mFrom:  7
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  S
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 1
+moving:  P
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 2
+moving:  N
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 3
+moving:  M
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 4
+moving:  D
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 5
+
+
+LINE
+moving:  T
+mFrom:  0
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  D
+mFrom:  4
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 1
+moving:  M
+mFrom:  4
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 2
+moving:  N
+mFrom:  4
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 3
+moving:  P
+mFrom:  4
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 4
+moving:  S
+mFrom:  4
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 5
+moving:  C
+mFrom:  4
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 6
+moving:  Z
+mFrom:  4
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 7
+moving:  G
+mFrom:  4
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 8
+moving:  Q
+mFrom:  4
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 9
+moving:  R
+mFrom:  4
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 10
+moving:  N
+mFrom:  4
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 11
+moving:  R
+mFrom:  4
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 12
+moving:  P
+mFrom:  4
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 13
+
+
+LINE
+moving:  W
+mFrom:  2
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 1
+moving:  V
+mFrom:  2
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 2
+moving:  L
+mFrom:  2
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 3
+moving:  S
+mFrom:  2
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 4
+moving:  Z
+mFrom:  2
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 5
+
+
+LINE
+moving:  W
+mFrom:  4
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  T
+mFrom:  3
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  Z
+mFrom:  1
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  C
+mFrom:  1
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  W
+mFrom:  1
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  F
+mFrom:  2
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  M
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  Z
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 1
+moving:  S
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 2
+moving:  L
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 3
+moving:  V
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 4
+moving:  W
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 5
+moving:  P
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 6
+moving:  R
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 7
+moving:  N
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 8
+moving:  R
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 9
+moving:  Q
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 10
+moving:  G
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 11
+moving:  Z
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 12
+moving:  C
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 13
+moving:  S
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 14
+
+
+LINE
+moving:  F
+mFrom:  4
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  F
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 1
+moving:  T
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 2
+moving:  W
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 3
+moving:  G
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 4
+moving:  L
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 5
+moving:  M
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 6
+moving:  L
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 7
+
+
+LINE
+moving:  P
+mFrom:  6
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 1
+moving:  N
+mFrom:  6
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 2
+moving:  M
+mFrom:  6
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 3
+moving:  D
+mFrom:  6
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 4
+moving:  P
+mFrom:  6
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 5
+moving:  P
+mFrom:  6
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 6
+
+
+LINE
+moving:  M
+mFrom:  7
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  W
+mFrom:  7
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  C
+mFrom:  7
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  Z
+mFrom:  7
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  W
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 1
+moving:  M
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 2
+moving:  P
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 3
+moving:  P
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 4
+moving:  D
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 5
+moving:  M
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 6
+moving:  N
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 7
+moving:  P
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 8
+moving:  L
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 9
+moving:  M
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 10
+moving:  L
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 11
+moving:  G
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 12
+moving:  W
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 13
+moving:  T
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 14
+moving:  F
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 15
+moving:  Q
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 16
+moving:  C
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 17
+moving:  Q
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 18
+moving:  F
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 19
+moving:  D
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 20
+moving:  D
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 21
+moving:  B
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 22
+moving:  D
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 23
+moving:  V
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 24
+moving:  C
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 25
+moving:  G
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 26
+moving:  F
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 27
+moving:  S
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 28
+moving:  G
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 29
+moving:  N
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 30
+moving:  C
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 31
+LOOP #: 31
+
+
+LINE
+moving:  S
+mFrom:  3
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 1
+moving:  C
+mFrom:  3
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 2
+moving:  Z
+mFrom:  3
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 3
+moving:  G
+mFrom:  3
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 4
+moving:  Q
+mFrom:  3
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 5
+moving:  R
+mFrom:  3
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 6
+moving:  N
+mFrom:  3
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 7
+moving:  R
+mFrom:  3
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 8
+moving:  P
+mFrom:  3
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 9
+moving:  W
+mFrom:  3
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 10
+moving:  V
+mFrom:  3
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 11
+moving:  L
+mFrom:  3
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 12
+moving:  S
+mFrom:  3
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 13
+
+
+LINE
+moving:  Z
+mFrom:  3
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  S
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 1
+moving:  L
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 2
+moving:  V
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 3
+moving:  W
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 4
+moving:  P
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 5
+moving:  R
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 6
+moving:  N
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 7
+moving:  R
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 8
+moving:  Q
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 9
+moving:  G
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 10
+
+
+LINE
+moving:  Z
+mFrom:  2
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  Z
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  Z
+mFrom:  6
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  G
+mFrom:  6
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  Q
+mFrom:  6
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  Z
+mFrom:  3
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  Q
+mFrom:  7
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  G
+mFrom:  7
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  Z
+mFrom:  7
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  Z
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 32
+LOOP #: 1
+moving:  C
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 32
+LOOP #: 2
+moving:  N
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 32
+LOOP #: 3
+moving:  G
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 32
+LOOP #: 4
+moving:  S
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 32
+LOOP #: 5
+moving:  F
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 32
+LOOP #: 6
+moving:  G
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 32
+LOOP #: 7
+moving:  C
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 32
+LOOP #: 8
+moving:  V
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 32
+LOOP #: 9
+moving:  D
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 32
+LOOP #: 10
+moving:  B
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 32
+LOOP #: 11
+moving:  D
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 32
+LOOP #: 12
+moving:  D
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 32
+LOOP #: 13
+moving:  F
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 32
+LOOP #: 14
+moving:  Q
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 32
+LOOP #: 15
+moving:  C
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 32
+LOOP #: 16
+moving:  Q
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 32
+LOOP #: 17
+moving:  F
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 32
+LOOP #: 18
+moving:  T
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 32
+LOOP #: 19
+moving:  W
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 32
+LOOP #: 20
+moving:  G
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 32
+LOOP #: 21
+moving:  L
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 32
+LOOP #: 22
+moving:  M
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 32
+LOOP #: 23
+moving:  L
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 32
+LOOP #: 24
+moving:  P
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 32
+LOOP #: 25
+moving:  N
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 32
+LOOP #: 26
+moving:  M
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 32
+LOOP #: 27
+moving:  D
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 32
+LOOP #: 28
+moving:  P
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 32
+LOOP #: 29
+moving:  P
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 32
+LOOP #: 30
+moving:  M
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 32
+LOOP #: 31
+moving:  W
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 32
+LOOP #: 32
+
+
+LINE
+moving:  W
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  C
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  D
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  B
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 1
+moving:  H
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 2
+moving:  V
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 3
+moving:  P
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 4
+
+
+LINE
+moving:  C
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  S
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  Z
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  C
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  P
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  V
+mFrom:  8
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  V
+mFrom:  5
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  H
+mFrom:  5
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  B
+mFrom:  5
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  P
+mFrom:  0
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  W
+mFrom:  4
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 1
+moving:  M
+mFrom:  4
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 2
+moving:  P
+mFrom:  4
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 3
+moving:  P
+mFrom:  4
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 4
+moving:  D
+mFrom:  4
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 5
+moving:  M
+mFrom:  4
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 6
+moving:  N
+mFrom:  4
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 7
+moving:  P
+mFrom:  4
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 8
+moving:  L
+mFrom:  4
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 9
+moving:  M
+mFrom:  4
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 10
+moving:  L
+mFrom:  4
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 11
+moving:  G
+mFrom:  4
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 12
+moving:  W
+mFrom:  4
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 13
+moving:  T
+mFrom:  4
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 14
+moving:  F
+mFrom:  4
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 15
+
+
+LINE
+moving:  P
+mFrom:  7
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  Q
+mFrom:  4
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 1
+moving:  C
+mFrom:  4
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 2
+moving:  Q
+mFrom:  4
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 3
+moving:  F
+mFrom:  4
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 4
+moving:  D
+mFrom:  4
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 5
+moving:  D
+mFrom:  4
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 6
+moving:  B
+mFrom:  4
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 7
+moving:  D
+mFrom:  4
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 8
+moving:  V
+mFrom:  4
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 9
+
+
+LINE
+moving:  L
+mFrom:  8
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  L
+mFrom:  7
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  L
+mFrom:  0
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 1
+moving:  F
+mFrom:  0
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 2
+moving:  T
+mFrom:  0
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 3
+moving:  W
+mFrom:  0
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 4
+moving:  G
+mFrom:  0
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 5
+moving:  L
+mFrom:  0
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 6
+moving:  M
+mFrom:  0
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 7
+moving:  L
+mFrom:  0
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 8
+moving:  P
+mFrom:  0
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 9
+moving:  N
+mFrom:  0
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 10
+
+
+LINE
+moving:  P
+mFrom:  3
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  N
+mFrom:  8
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  P
+mFrom:  8
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  L
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 1
+moving:  M
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 2
+moving:  L
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 3
+moving:  G
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 4
+
+
+LINE
+moving:  P
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  B
+mFrom:  3
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  H
+mFrom:  3
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  V
+mFrom:  3
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  M
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  D
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 1
+moving:  P
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 2
+moving:  P
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 3
+moving:  M
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 4
+moving:  W
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 5
+
+
+LINE
+moving:  V
+mFrom:  3
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  G
+mFrom:  5
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  L
+mFrom:  5
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  M
+mFrom:  5
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  M
+mFrom:  6
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 23
+LOOP #: 1
+moving:  L
+mFrom:  6
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 23
+LOOP #: 2
+moving:  G
+mFrom:  6
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 23
+LOOP #: 3
+moving:  P
+mFrom:  6
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 23
+LOOP #: 4
+moving:  V
+mFrom:  6
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 23
+LOOP #: 5
+moving:  D
+mFrom:  6
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 23
+LOOP #: 6
+moving:  B
+mFrom:  6
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 23
+LOOP #: 7
+moving:  D
+mFrom:  6
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 23
+LOOP #: 8
+moving:  D
+mFrom:  6
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 23
+LOOP #: 9
+moving:  F
+mFrom:  6
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 23
+LOOP #: 10
+moving:  Q
+mFrom:  6
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 23
+LOOP #: 11
+moving:  C
+mFrom:  6
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 23
+LOOP #: 12
+moving:  Q
+mFrom:  6
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 23
+LOOP #: 13
+moving:  C
+mFrom:  6
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 23
+LOOP #: 14
+moving:  Z
+mFrom:  6
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 23
+LOOP #: 15
+moving:  S
+mFrom:  6
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 23
+LOOP #: 16
+moving:  C
+mFrom:  6
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 23
+LOOP #: 17
+moving:  D
+mFrom:  6
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 23
+LOOP #: 18
+moving:  C
+mFrom:  6
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 23
+LOOP #: 19
+moving:  W
+mFrom:  6
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 23
+LOOP #: 20
+moving:  R
+mFrom:  6
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 23
+LOOP #: 21
+moving:  N
+mFrom:  6
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 23
+LOOP #: 22
+moving:  R
+mFrom:  6
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 23
+LOOP #: 23
+
+
+LINE
+moving:  V
+mFrom:  1
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  H
+mFrom:  1
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  H
+mFrom:  4
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 1
+moving:  W
+mFrom:  4
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 2
+moving:  M
+mFrom:  4
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 3
+moving:  P
+mFrom:  4
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 4
+moving:  P
+mFrom:  4
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 5
+moving:  D
+mFrom:  4
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 6
+moving:  M
+mFrom:  4
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 7
+moving:  P
+mFrom:  4
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 8
+moving:  N
+mFrom:  4
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 9
+
+
+LINE
+moving:  B
+mFrom:  1
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  B
+mFrom:  4
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 1
+moving:  C
+mFrom:  4
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 2
+moving:  G
+mFrom:  4
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 3
+moving:  F
+mFrom:  4
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 4
+moving:  S
+mFrom:  4
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 5
+moving:  G
+mFrom:  4
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 6
+moving:  N
+mFrom:  4
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 7
+moving:  C
+mFrom:  4
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 8
+moving:  Z
+mFrom:  4
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 9
+
+
+LINE
+moving:  V
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  W
+mFrom:  8
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  T
+mFrom:  8
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  F
+mFrom:  8
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  L
+mFrom:  8
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  Z
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 1
+moving:  C
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 2
+moving:  N
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 3
+moving:  G
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 4
+moving:  S
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 5
+moving:  F
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 6
+moving:  G
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 7
+moving:  C
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 8
+moving:  B
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 9
+moving:  R
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 10
+moving:  N
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 11
+moving:  R
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 12
+moving:  W
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 13
+moving:  C
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 14
+
+
+LINE
+moving:  V
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 1
+moving:  P
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 2
+moving:  W
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 3
+moving:  V
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 4
+moving:  L
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 5
+
+
+LINE
+moving:  S
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  S
+mFrom:  4
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  Z
+mFrom:  4
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  G
+mFrom:  4
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  G
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 1
+moving:  Z
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 2
+moving:  D
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 3
+moving:  C
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 4
+moving:  S
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 5
+moving:  Z
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 6
+moving:  C
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 7
+moving:  Q
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 8
+moving:  C
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 9
+moving:  Q
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 10
+moving:  F
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 11
+moving:  D
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 12
+moving:  D
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 13
+moving:  B
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 14
+moving:  D
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 15
+moving:  V
+mFrom:  5
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 16
+
+
+LINE
+moving:  P
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  G
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  L
+mFrom:  3
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 1
+moving:  V
+mFrom:  3
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 2
+moving:  W
+mFrom:  3
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 3
+moving:  P
+mFrom:  3
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 4
+moving:  V
+mFrom:  3
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 5
+moving:  L
+mFrom:  3
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 6
+moving:  F
+mFrom:  3
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 7
+
+
+LINE
+moving:  G
+mFrom:  0
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  P
+mFrom:  0
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  C
+mFrom:  2
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 1
+moving:  W
+mFrom:  2
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 2
+moving:  R
+mFrom:  2
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 3
+moving:  N
+mFrom:  2
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 4
+
+
+LINE
+moving:  T
+mFrom:  3
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 1
+moving:  N
+mFrom:  3
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 2
+moving:  P
+mFrom:  3
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 3
+moving:  M
+mFrom:  3
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 4
+moving:  D
+mFrom:  3
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 5
+
+
+LINE
+moving:  L
+mFrom:  5
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  M
+mFrom:  5
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  P
+mFrom:  3
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 1
+moving:  P
+mFrom:  3
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 2
+moving:  M
+mFrom:  3
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 3
+moving:  W
+mFrom:  3
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 4
+
+
+LINE
+moving:  F
+mFrom:  7
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 1
+moving:  L
+mFrom:  7
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 2
+moving:  V
+mFrom:  7
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 3
+moving:  P
+mFrom:  7
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 4
+
+
+LINE
+moving:  H
+mFrom:  3
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  L
+mFrom:  5
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  V
+mFrom:  3
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  W
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 1
+moving:  M
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 2
+moving:  P
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 3
+moving:  P
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 4
+
+
+LINE
+moving:  V
+mFrom:  8
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  P
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  G
+mFrom:  1
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  R
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 1
+moving:  B
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 2
+moving:  C
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 3
+moving:  G
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 4
+moving:  F
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 5
+moving:  S
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 6
+moving:  G
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 7
+
+
+LINE
+moving:  V
+mFrom:  1
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 1
+moving:  D
+mFrom:  1
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 2
+moving:  B
+mFrom:  1
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 3
+moving:  D
+mFrom:  1
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 4
+moving:  D
+mFrom:  1
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 5
+moving:  F
+mFrom:  1
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 6
+moving:  Q
+mFrom:  1
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 7
+moving:  C
+mFrom:  1
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 8
+moving:  Q
+mFrom:  1
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 9
+moving:  C
+mFrom:  1
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 10
+moving:  Z
+mFrom:  1
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 11
+moving:  S
+mFrom:  1
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 12
+moving:  C
+mFrom:  1
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 13
+moving:  D
+mFrom:  1
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 14
+moving:  Z
+mFrom:  1
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 15
+
+
+LINE
+moving:  L
+mFrom:  7
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 1
+moving:  W
+mFrom:  7
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 2
+moving:  V
+mFrom:  7
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 3
+moving:  L
+mFrom:  7
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 4
+
+
+LINE
+moving:  V
+mFrom:  3
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  G
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  S
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  L
+mFrom:  5
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  S
+mFrom:  6
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  G
+mFrom:  6
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  V
+mFrom:  6
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 1
+moving:  G
+mFrom:  6
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 2
+moving:  P
+mFrom:  6
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 3
+moving:  P
+mFrom:  6
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 4
+moving:  P
+mFrom:  6
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 5
+
+
+LINE
+moving:  H
+mFrom:  4
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  H
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 1
+moving:  P
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 2
+moving:  P
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 3
+moving:  P
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 4
+moving:  G
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 5
+moving:  V
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 6
+
+
+LINE
+moving:  M
+mFrom:  6
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  W
+mFrom:  6
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  M
+mFrom:  6
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  M
+mFrom:  0
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  W
+mFrom:  0
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  M
+mFrom:  0
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  L
+mFrom:  6
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  D
+mFrom:  6
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  M
+mFrom:  6
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  M
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  W
+mFrom:  1
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  V
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  W
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  L
+mFrom:  7
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  L
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 19
+LOOP #: 1
+moving:  Z
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 19
+LOOP #: 2
+moving:  D
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 19
+LOOP #: 3
+moving:  C
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 19
+LOOP #: 4
+moving:  S
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 19
+LOOP #: 5
+moving:  Z
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 19
+LOOP #: 6
+moving:  C
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 19
+LOOP #: 7
+moving:  Q
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 19
+LOOP #: 8
+moving:  C
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 19
+LOOP #: 9
+moving:  Q
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 19
+LOOP #: 10
+moving:  F
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 19
+LOOP #: 11
+moving:  D
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 19
+LOOP #: 12
+moving:  D
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 19
+LOOP #: 13
+moving:  B
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 19
+LOOP #: 14
+moving:  D
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 19
+LOOP #: 15
+moving:  V
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 19
+LOOP #: 16
+moving:  N
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 19
+LOOP #: 17
+moving:  C
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 19
+LOOP #: 18
+moving:  Z
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 19
+LOOP #: 19
+
+
+LINE
+moving:  L
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  P
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  N
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  T
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  M
+mFrom:  1
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  M
+mFrom:  0
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  D
+mFrom:  0
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  G
+mFrom:  1
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  S
+mFrom:  1
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  D
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 33
+LOOP #: 1
+moving:  M
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 33
+LOOP #: 2
+moving:  Z
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 33
+LOOP #: 3
+moving:  C
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 33
+LOOP #: 4
+moving:  N
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 33
+LOOP #: 5
+moving:  V
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 33
+LOOP #: 6
+moving:  D
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 33
+LOOP #: 7
+moving:  B
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 33
+LOOP #: 8
+moving:  D
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 33
+LOOP #: 9
+moving:  D
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 33
+LOOP #: 10
+moving:  F
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 33
+LOOP #: 11
+moving:  Q
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 33
+LOOP #: 12
+moving:  C
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 33
+LOOP #: 13
+moving:  Q
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 33
+LOOP #: 14
+moving:  C
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 33
+LOOP #: 15
+moving:  Z
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 33
+LOOP #: 16
+moving:  S
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 33
+LOOP #: 17
+moving:  C
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 33
+LOOP #: 18
+moving:  D
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 33
+LOOP #: 19
+moving:  Z
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 33
+LOOP #: 20
+moving:  L
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 33
+LOOP #: 21
+moving:  W
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 33
+LOOP #: 22
+moving:  V
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 33
+LOOP #: 23
+moving:  W
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 33
+LOOP #: 24
+moving:  M
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 33
+LOOP #: 25
+moving:  V
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 33
+LOOP #: 26
+moving:  G
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 33
+LOOP #: 27
+moving:  P
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 33
+LOOP #: 28
+moving:  P
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 33
+LOOP #: 29
+moving:  P
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 33
+LOOP #: 30
+moving:  H
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 33
+LOOP #: 31
+moving:  F
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 33
+LOOP #: 32
+moving:  G
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 33
+LOOP #: 33
+
+
+LINE
+moving:  L
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  S
+mFrom:  2
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  G
+mFrom:  2
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  L
+mFrom:  2
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  W
+mFrom:  2
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  M
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  C
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 1
+moving:  B
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 2
+moving:  R
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 3
+moving:  P
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 4
+
+
+LINE
+moving:  N
+mFrom:  4
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  T
+mFrom:  3
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  N
+mFrom:  3
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  N
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 1
+moving:  T
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 2
+moving:  V
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 3
+moving:  L
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 4
+
+
+LINE
+moving:  N
+mFrom:  1
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  W
+mFrom:  1
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  G
+mFrom:  1
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  P
+mFrom:  3
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  F
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  M
+mFrom:  7
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  F
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 1
+moving:  L
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 2
+moving:  V
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 3
+moving:  T
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 4
+moving:  N
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 5
+moving:  P
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 6
+moving:  R
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 7
+
+
+LINE
+moving:  G
+mFrom:  0
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  W
+mFrom:  0
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  N
+mFrom:  0
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  N
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 1
+moving:  W
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 2
+moving:  G
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 3
+moving:  S
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 4
+
+
+LINE
+moving:  R
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 1
+moving:  W
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 2
+moving:  C
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 3
+moving:  Q
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 4
+
+
+LINE
+moving:  R
+mFrom:  2
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  P
+mFrom:  2
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  N
+mFrom:  2
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  N
+mFrom:  3
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  P
+mFrom:  3
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  R
+mFrom:  3
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  T
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  V
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  L
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  L
+mFrom:  5
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  V
+mFrom:  5
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  S
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 1
+moving:  G
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 2
+moving:  W
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 3
+moving:  N
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 4
+moving:  B
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 5
+moving:  C
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 6
+moving:  L
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 7
+moving:  G
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 8
+moving:  S
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 9
+moving:  L
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 10
+moving:  G
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 11
+moving:  F
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 12
+moving:  H
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 13
+moving:  P
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 14
+moving:  P
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 15
+moving:  P
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 16
+moving:  G
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 17
+moving:  V
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 18
+moving:  M
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 19
+moving:  W
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 20
+moving:  V
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 21
+moving:  W
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 22
+moving:  L
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 23
+moving:  Z
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 24
+moving:  D
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 25
+moving:  C
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 26
+moving:  S
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 27
+moving:  Z
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 28
+moving:  C
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 29
+moving:  Q
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 30
+moving:  C
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 31
+moving:  Q
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 32
+moving:  F
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 33
+moving:  D
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 34
+moving:  D
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 35
+moving:  B
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 36
+moving:  D
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 37
+moving:  V
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 38
+
+
+LINE
+moving:  V
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 40
+LOOP #: 1
+moving:  D
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 40
+LOOP #: 2
+moving:  B
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 40
+LOOP #: 3
+moving:  D
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 40
+LOOP #: 4
+moving:  D
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 40
+LOOP #: 5
+moving:  F
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 40
+LOOP #: 6
+moving:  Q
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 40
+LOOP #: 7
+moving:  C
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 40
+LOOP #: 8
+moving:  Q
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 40
+LOOP #: 9
+moving:  C
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 40
+LOOP #: 10
+moving:  Z
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 40
+LOOP #: 11
+moving:  S
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 40
+LOOP #: 12
+moving:  C
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 40
+LOOP #: 13
+moving:  D
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 40
+LOOP #: 14
+moving:  Z
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 40
+LOOP #: 15
+moving:  L
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 40
+LOOP #: 16
+moving:  W
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 40
+LOOP #: 17
+moving:  V
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 40
+LOOP #: 18
+moving:  W
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 40
+LOOP #: 19
+moving:  M
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 40
+LOOP #: 20
+moving:  V
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 40
+LOOP #: 21
+moving:  G
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 40
+LOOP #: 22
+moving:  P
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 40
+LOOP #: 23
+moving:  P
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 40
+LOOP #: 24
+moving:  P
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 40
+LOOP #: 25
+moving:  H
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 40
+LOOP #: 26
+moving:  F
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 40
+LOOP #: 27
+moving:  G
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 40
+LOOP #: 28
+moving:  L
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 40
+LOOP #: 29
+moving:  S
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 40
+LOOP #: 30
+moving:  G
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 40
+LOOP #: 31
+moving:  L
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 40
+LOOP #: 32
+moving:  C
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 40
+LOOP #: 33
+moving:  B
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 40
+LOOP #: 34
+moving:  N
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 40
+LOOP #: 35
+moving:  W
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 40
+LOOP #: 36
+moving:  G
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 40
+LOOP #: 37
+moving:  S
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 40
+LOOP #: 38
+moving:  V
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 40
+LOOP #: 39
+moving:  L
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 40
+LOOP #: 40
+
+
+LINE
+moving:  Q
+mFrom:  7
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 1
+moving:  C
+mFrom:  7
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 2
+moving:  W
+mFrom:  7
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 3
+moving:  R
+mFrom:  7
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 4
+
+
+LINE
+moving:  T
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  R
+mFrom:  4
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  N
+mFrom:  6
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  C
+mFrom:  6
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  Z
+mFrom:  6
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  M
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  L
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 1
+moving:  V
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 2
+moving:  S
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 3
+moving:  G
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 4
+moving:  W
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 5
+moving:  N
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 6
+moving:  B
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 7
+moving:  C
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 8
+moving:  L
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 9
+moving:  G
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 10
+moving:  S
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 11
+moving:  L
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 12
+moving:  G
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 13
+moving:  F
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 14
+moving:  H
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 15
+moving:  P
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 16
+moving:  P
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 17
+moving:  P
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 18
+moving:  G
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 19
+moving:  V
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 20
+moving:  M
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 21
+moving:  W
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 22
+moving:  V
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 23
+moving:  W
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 24
+moving:  L
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 25
+moving:  Z
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 26
+moving:  D
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 27
+moving:  C
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 28
+moving:  S
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 29
+moving:  Z
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 30
+moving:  C
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 31
+moving:  Q
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 32
+moving:  C
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 33
+moving:  Q
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 34
+moving:  F
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 35
+moving:  D
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 36
+moving:  D
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 37
+moving:  B
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 38
+LOOP #: 38
+
+
+LINE
+moving:  R
+mFrom:  0
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  R
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  T
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  R
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  D
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 1
+moving:  V
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 2
+moving:  F
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 3
+moving:  M
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 4
+moving:  P
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 5
+
+
+LINE
+moving:  B
+mFrom:  7
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 1
+moving:  D
+mFrom:  7
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 2
+moving:  D
+mFrom:  7
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 3
+moving:  F
+mFrom:  7
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 4
+
+
+LINE
+moving:  D
+mFrom:  6
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  M
+mFrom:  4
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  P
+mFrom:  4
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  N
+mFrom:  4
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  D
+mFrom:  0
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  Q
+mFrom:  7
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 1
+moving:  C
+mFrom:  7
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 2
+moving:  Q
+mFrom:  7
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 3
+moving:  C
+mFrom:  7
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 4
+moving:  Z
+mFrom:  7
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 5
+moving:  S
+mFrom:  7
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 6
+moving:  C
+mFrom:  7
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 7
+moving:  D
+mFrom:  7
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 8
+moving:  Z
+mFrom:  7
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 9
+moving:  L
+mFrom:  7
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 10
+
+
+LINE
+moving:  W
+mFrom:  7
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 1
+moving:  V
+mFrom:  7
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 2
+moving:  W
+mFrom:  7
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 3
+moving:  M
+mFrom:  7
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 4
+moving:  V
+mFrom:  7
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 5
+
+
+LINE
+moving:  V
+mFrom:  0
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  M
+mFrom:  0
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  W
+mFrom:  0
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  F
+mFrom:  5
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 1
+moving:  D
+mFrom:  5
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 2
+moving:  D
+mFrom:  5
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 3
+moving:  B
+mFrom:  5
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 4
+moving:  R
+mFrom:  5
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 5
+moving:  T
+mFrom:  5
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 6
+moving:  R
+mFrom:  5
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 7
+moving:  Z
+mFrom:  5
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 8
+moving:  C
+mFrom:  5
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 9
+
+
+LINE
+moving:  L
+mFrom:  2
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 1
+moving:  Z
+mFrom:  2
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 2
+moving:  D
+mFrom:  2
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 3
+moving:  C
+mFrom:  2
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 4
+moving:  S
+mFrom:  2
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 5
+moving:  Z
+mFrom:  2
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 6
+moving:  C
+mFrom:  2
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 7
+moving:  Q
+mFrom:  2
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 8
+moving:  C
+mFrom:  2
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 9
+
+
+LINE
+moving:  C
+mFrom:  6
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  Q
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  Z
+mFrom:  6
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  V
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  W
+mFrom:  0
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  Z
+mFrom:  8
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  Z
+mFrom:  1
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 1
+moving:  W
+mFrom:  1
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 2
+moving:  M
+mFrom:  1
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 3
+moving:  V
+mFrom:  1
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 4
+
+
+LINE
+moving:  D
+mFrom:  1
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  Q
+mFrom:  7
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 1
+moving:  G
+mFrom:  7
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 2
+moving:  P
+mFrom:  7
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 3
+moving:  P
+mFrom:  7
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 4
+moving:  P
+mFrom:  7
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 5
+moving:  H
+mFrom:  7
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 6
+moving:  F
+mFrom:  7
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 7
+moving:  G
+mFrom:  7
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 8
+moving:  L
+mFrom:  7
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 9
+
+
+LINE
+moving:  N
+mFrom:  8
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  P
+mFrom:  8
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  L
+mFrom:  0
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  G
+mFrom:  0
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  V
+mFrom:  2
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  M
+mFrom:  2
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  S
+mFrom:  7
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 1
+moving:  G
+mFrom:  7
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 2
+moving:  L
+mFrom:  7
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 3
+moving:  C
+mFrom:  7
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 4
+moving:  B
+mFrom:  7
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 5
+moving:  N
+mFrom:  7
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 6
+
+
+LINE
+moving:  P
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 1
+moving:  N
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 2
+moving:  V
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 3
+moving:  C
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 4
+moving:  Q
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 5
+moving:  C
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 6
+moving:  Z
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 7
+moving:  S
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 8
+moving:  C
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 9
+moving:  D
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 10
+
+
+LINE
+moving:  D
+mFrom:  2
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 1
+moving:  C
+mFrom:  2
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 2
+moving:  S
+mFrom:  2
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 3
+moving:  Z
+mFrom:  2
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 4
+moving:  C
+mFrom:  2
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 5
+moving:  Q
+mFrom:  2
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 6
+moving:  C
+mFrom:  2
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 7
+
+
+LINE
+moving:  F
+mFrom:  0
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  H
+mFrom:  0
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  P
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 1
+moving:  P
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 2
+moving:  P
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 3
+moving:  G
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 4
+moving:  Q
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 5
+
+
+LINE
+moving:  M
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 1
+moving:  P
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 2
+moving:  M
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 3
+moving:  F
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 4
+moving:  V
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 5
+moving:  D
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 6
+moving:  W
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 7
+
+
+LINE
+moving:  W
+mFrom:  5
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 1
+moving:  D
+mFrom:  5
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 2
+moving:  V
+mFrom:  5
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 3
+moving:  F
+mFrom:  5
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 4
+moving:  M
+mFrom:  5
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 5
+moving:  P
+mFrom:  5
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 6
+moving:  M
+mFrom:  5
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 7
+
+
+LINE
+moving:  M
+mFrom:  3
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  Q
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 1
+moving:  G
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 2
+moving:  P
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 3
+moving:  P
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 4
+moving:  P
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 5
+moving:  R
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 6
+moving:  T
+mFrom:  6
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 7
+
+
+LINE
+moving:  M
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 1
+moving:  V
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 2
+moving:  N
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 3
+moving:  P
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 4
+moving:  W
+mFrom:  2
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 5
+
+
+LINE
+moving:  H
+mFrom:  1
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 1
+moving:  F
+mFrom:  1
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 2
+moving:  C
+mFrom:  1
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 3
+moving:  Q
+mFrom:  1
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 4
+moving:  C
+mFrom:  1
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 5
+moving:  Z
+mFrom:  1
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 6
+moving:  S
+mFrom:  1
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 7
+
+
+LINE
+moving:  R
+mFrom:  6
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 1
+moving:  B
+mFrom:  6
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 2
+moving:  D
+mFrom:  6
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 3
+moving:  D
+mFrom:  6
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 4
+
+
+LINE
+moving:  D
+mFrom:  7
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 1
+moving:  D
+mFrom:  7
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 2
+moving:  B
+mFrom:  7
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 3
+moving:  R
+mFrom:  7
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 4
+moving:  W
+mFrom:  7
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 5
+
+
+LINE
+moving:  C
+mFrom:  1
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  Z
+mFrom:  2
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  D
+mFrom:  1
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  G
+mFrom:  1
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  T
+mFrom:  3
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 1
+moving:  R
+mFrom:  3
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 2
+moving:  P
+mFrom:  3
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 3
+moving:  P
+mFrom:  3
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 4
+moving:  P
+mFrom:  3
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 5
+moving:  G
+mFrom:  3
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 6
+moving:  Q
+mFrom:  3
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 7
+moving:  V
+mFrom:  3
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 8
+
+
+LINE
+moving:  W
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 1
+moving:  R
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 2
+moving:  B
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 3
+moving:  D
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 4
+moving:  D
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 5
+moving:  W
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 6
+moving:  P
+mFrom:  8
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 7
+
+
+LINE
+moving:  P
+mFrom:  6
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 1
+moving:  W
+mFrom:  6
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 2
+moving:  D
+mFrom:  6
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 3
+moving:  D
+mFrom:  6
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 4
+
+
+LINE
+moving:  D
+mFrom:  8
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 1
+moving:  D
+mFrom:  8
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 2
+moving:  W
+mFrom:  8
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 3
+moving:  P
+mFrom:  8
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 4
+moving:  N
+mFrom:  8
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 5
+moving:  V
+mFrom:  8
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 6
+moving:  M
+mFrom:  8
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 7
+
+
+LINE
+moving:  M
+mFrom:  2
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 1
+moving:  V
+mFrom:  2
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 2
+moving:  N
+mFrom:  2
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 3
+moving:  P
+mFrom:  2
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 4
+moving:  W
+mFrom:  2
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 5
+moving:  D
+mFrom:  2
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 6
+moving:  D
+mFrom:  2
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 7
+moving:  W
+mFrom:  2
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 8
+
+
+LINE
+moving:  Z
+mFrom:  4
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 1
+moving:  M
+mFrom:  4
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 2
+moving:  P
+mFrom:  4
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 3
+moving:  M
+mFrom:  4
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 4
+moving:  F
+mFrom:  4
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 5
+moving:  V
+mFrom:  4
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 6
+
+
+LINE
+moving:  W
+mFrom:  0
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 1
+moving:  D
+mFrom:  0
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 2
+moving:  D
+mFrom:  0
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 3
+moving:  W
+mFrom:  0
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 4
+moving:  P
+mFrom:  0
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 5
+moving:  N
+mFrom:  0
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 6
+moving:  V
+mFrom:  0
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 7
+moving:  M
+mFrom:  0
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 8
+LOOP #: 8
+
+
+LINE
+moving:  M
+mFrom:  7
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 1
+moving:  V
+mFrom:  7
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 2
+moving:  N
+mFrom:  7
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 3
+moving:  P
+mFrom:  7
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 4
+moving:  W
+mFrom:  7
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 5
+moving:  D
+mFrom:  7
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 6
+moving:  D
+mFrom:  7
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 7
+moving:  W
+mFrom:  7
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 8
+moving:  G
+mFrom:  7
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 9
+moving:  D
+mFrom:  7
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 10
+moving:  G
+mFrom:  7
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 11
+moving:  S
+mFrom:  7
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 12
+moving:  V
+mFrom:  7
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 13
+
+
+LINE
+moving:  V
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  F
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  M
+mFrom:  8
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  L
+mFrom:  7
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  B
+mFrom:  6
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  V
+mFrom:  3
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  S
+mFrom:  3
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  P
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 1
+moving:  M
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 2
+moving:  Z
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 3
+moving:  C
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 4
+moving:  Q
+mFrom:  8
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 5
+
+
+LINE
+moving:  B
+mFrom:  2
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  L
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 1
+moving:  M
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 2
+moving:  F
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 3
+moving:  V
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 4
+moving:  V
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 5
+moving:  Q
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 6
+moving:  G
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 7
+moving:  P
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 8
+moving:  P
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 9
+moving:  P
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 10
+moving:  R
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 11
+moving:  T
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 12
+moving:  C
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 13
+moving:  S
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 14
+moving:  Z
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 15
+LOOP #: 15
+
+
+LINE
+moving:  B
+mFrom:  6
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  G
+mFrom:  3
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 1
+moving:  D
+mFrom:  3
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 2
+moving:  G
+mFrom:  3
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 3
+moving:  W
+mFrom:  3
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 4
+moving:  D
+mFrom:  3
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 5
+moving:  D
+mFrom:  3
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 6
+moving:  W
+mFrom:  3
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 7
+moving:  P
+mFrom:  3
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 8
+moving:  N
+mFrom:  3
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 9
+moving:  V
+mFrom:  3
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 10
+
+
+LINE
+moving:  V
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 1
+moving:  N
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 2
+moving:  P
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 3
+moving:  W
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 4
+moving:  D
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 5
+moving:  D
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 6
+moving:  W
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 7
+moving:  G
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 8
+moving:  D
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 9
+moving:  G
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 10
+moving:  R
+mFrom:  6
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 11
+
+
+LINE
+moving:  Z
+mFrom:  0
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 17
+LOOP #: 1
+moving:  S
+mFrom:  0
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 17
+LOOP #: 2
+moving:  C
+mFrom:  0
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 17
+LOOP #: 3
+moving:  T
+mFrom:  0
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 17
+LOOP #: 4
+moving:  R
+mFrom:  0
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 17
+LOOP #: 5
+moving:  P
+mFrom:  0
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 17
+LOOP #: 6
+moving:  P
+mFrom:  0
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 17
+LOOP #: 7
+moving:  P
+mFrom:  0
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 17
+LOOP #: 8
+moving:  G
+mFrom:  0
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 17
+LOOP #: 9
+moving:  Q
+mFrom:  0
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 17
+LOOP #: 10
+moving:  V
+mFrom:  0
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 17
+LOOP #: 11
+moving:  V
+mFrom:  0
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 17
+LOOP #: 12
+moving:  F
+mFrom:  0
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 17
+LOOP #: 13
+moving:  M
+mFrom:  0
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 17
+LOOP #: 14
+moving:  L
+mFrom:  0
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 17
+LOOP #: 15
+moving:  Q
+mFrom:  0
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 17
+LOOP #: 16
+moving:  C
+mFrom:  0
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 17
+LOOP #: 17
+
+
+LINE
+moving:  B
+mFrom:  8
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  C
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 1
+moving:  Q
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 2
+moving:  L
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 3
+moving:  M
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 4
+moving:  F
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 5
+moving:  V
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 6
+
+
+LINE
+moving:  R
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  G
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  D
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  M
+mFrom:  3
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  D
+mFrom:  3
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  W
+mFrom:  6
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  F
+mFrom:  6
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  D
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 1
+moving:  M
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 2
+moving:  G
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 3
+moving:  W
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 4
+moving:  D
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 5
+moving:  D
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 6
+moving:  W
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 7
+moving:  P
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 8
+moving:  N
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 9
+moving:  V
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 10
+moving:  D
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 11
+moving:  W
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 12
+LOOP #: 12
+
+
+LINE
+moving:  V
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 1
+moving:  Q
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 2
+moving:  G
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 3
+moving:  P
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 4
+moving:  P
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 5
+moving:  P
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 6
+moving:  R
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 7
+moving:  T
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 8
+moving:  C
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 9
+moving:  S
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 10
+moving:  Z
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 11
+moving:  C
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 12
+moving:  Q
+mFrom:  5
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 13
+LOOP #: 13
+
+
+LINE
+moving:  F
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  W
+mFrom:  7
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  Z
+mFrom:  4
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  L
+mFrom:  4
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  W
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 1
+moving:  D
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 2
+moving:  V
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 3
+moving:  N
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 4
+moving:  P
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 5
+moving:  W
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 6
+moving:  D
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 7
+moving:  D
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 8
+moving:  W
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 9
+moving:  G
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 10
+moving:  M
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 11
+moving:  D
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 12
+moving:  D
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 13
+moving:  G
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 14
+moving:  R
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 15
+moving:  B
+mFrom:  2
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 16
+LOOP #: 16
+
+
+LINE
+moving:  W
+mFrom:  1
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  F
+mFrom:  1
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  L
+mFrom:  1
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  L
+mFrom:  2
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  F
+mFrom:  2
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  F
+mFrom:  6
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  L
+mFrom:  6
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  W
+mFrom:  2
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  B
+mFrom:  7
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 1
+moving:  R
+mFrom:  7
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 2
+moving:  G
+mFrom:  7
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 3
+moving:  D
+mFrom:  7
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 4
+
+
+LINE
+moving:  D
+mFrom:  3
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  G
+mFrom:  3
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  L
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 1
+moving:  Z
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 2
+moving:  V
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 3
+moving:  F
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 4
+moving:  M
+mFrom:  0
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 5
+
+
+LINE
+moving:  R
+mFrom:  3
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  B
+mFrom:  3
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  C
+mFrom:  5
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 1
+moving:  F
+mFrom:  5
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 2
+moving:  H
+mFrom:  5
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 3
+moving:  N
+mFrom:  5
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 4
+moving:  B
+mFrom:  5
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 5
+moving:  C
+mFrom:  5
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 6
+
+
+LINE
+moving:  C
+mFrom:  7
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  B
+mFrom:  7
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  L
+mFrom:  0
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  Q
+mFrom:  0
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  N
+mFrom:  7
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 1
+moving:  H
+mFrom:  7
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 2
+moving:  F
+mFrom:  7
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 3
+moving:  C
+mFrom:  7
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 4
+moving:  G
+mFrom:  7
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 5
+
+
+LINE
+moving:  L
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 1
+moving:  G
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 2
+moving:  S
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 3
+moving:  C
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 4
+moving:  N
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 5
+LOOP #: 5
+
+
+LINE
+moving:  L
+mFrom:  8
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 1
+moving:  F
+mFrom:  8
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 2
+moving:  Q
+mFrom:  8
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 3
+moving:  C
+mFrom:  8
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 4
+moving:  Z
+mFrom:  8
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 5
+moving:  S
+mFrom:  8
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 6
+
+
+LINE
+moving:  C
+mFrom:  8
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  T
+mFrom:  8
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  C
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  B
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 1
+moving:  C
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 2
+moving:  M
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 3
+moving:  F
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 4
+
+
+LINE
+moving:  T
+mFrom:  1
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  C
+mFrom:  1
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  Q
+mFrom:  3
+mTo:  8
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  C
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 1
+moving:  T
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 2
+moving:  F
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 3
+moving:  M
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 4
+moving:  C
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 5
+moving:  B
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 6
+moving:  N
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 7
+moving:  C
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 8
+moving:  S
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 9
+moving:  G
+mFrom:  2
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 10
+
+
+LINE
+moving:  L
+mFrom:  2
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  L
+mFrom:  6
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 1
+moving:  C
+mFrom:  6
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 2
+moving:  G
+mFrom:  6
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 3
+moving:  C
+mFrom:  6
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 4
+moving:  F
+mFrom:  6
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 5
+moving:  H
+mFrom:  6
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 6
+moving:  N
+mFrom:  6
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 7
+moving:  B
+mFrom:  6
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 8
+moving:  R
+mFrom:  6
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 9
+moving:  W
+mFrom:  6
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 10
+LOOP #: 10
+
+
+LINE
+moving:  V
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  Z
+mFrom:  4
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  L
+mFrom:  3
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  G
+mFrom:  5
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 1
+moving:  S
+mFrom:  5
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 2
+LOOP #: 2
+
+
+LINE
+moving:  C
+mFrom:  5
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  N
+mFrom:  5
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  B
+mFrom:  5
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  C
+mFrom:  5
+mTo:  0
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  L
+mFrom:  1
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 1
+moving:  W
+mFrom:  1
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 2
+moving:  R
+mFrom:  1
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 3
+moving:  B
+mFrom:  1
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 4
+moving:  N
+mFrom:  1
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 5
+moving:  H
+mFrom:  1
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 6
+moving:  F
+mFrom:  1
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 7
+
+
+LINE
+moving:  S
+mFrom:  7
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 1
+moving:  G
+mFrom:  7
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 2
+moving:  S
+mFrom:  7
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 3
+moving:  Z
+mFrom:  7
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 4
+moving:  C
+mFrom:  7
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 5
+moving:  Q
+mFrom:  7
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 6
+
+
+LINE
+moving:  M
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 1
+moving:  F
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 2
+moving:  T
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 3
+moving:  C
+mFrom:  5
+mTo:  2
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 4
+
+
+LINE
+moving:  F
+mFrom:  7
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 1
+moving:  L
+mFrom:  7
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 2
+moving:  D
+mFrom:  7
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 3
+moving:  D
+mFrom:  7
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 4
+moving:  M
+mFrom:  7
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 5
+moving:  G
+mFrom:  7
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 6
+moving:  W
+mFrom:  7
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 7
+moving:  D
+mFrom:  7
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 8
+moving:  D
+mFrom:  7
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 9
+moving:  W
+mFrom:  7
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 10
+moving:  P
+mFrom:  7
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 11
+moving:  N
+mFrom:  7
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 12
+moving:  V
+mFrom:  7
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 13
+moving:  D
+mFrom:  7
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 14
+LOOP #: 14
+
+
+LINE
+moving:  D
+mFrom:  5
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 1
+moving:  V
+mFrom:  5
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 2
+moving:  N
+mFrom:  5
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 3
+moving:  P
+mFrom:  5
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 4
+moving:  W
+mFrom:  5
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 5
+moving:  D
+mFrom:  5
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 6
+moving:  D
+mFrom:  5
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 7
+moving:  W
+mFrom:  5
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 8
+moving:  G
+mFrom:  5
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 9
+moving:  M
+mFrom:  5
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 10
+moving:  D
+mFrom:  5
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 11
+LOOP #: 11
+
+
+LINE
+moving:  C
+mFrom:  0
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  Q
+mFrom:  6
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 1
+moving:  C
+mFrom:  6
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 2
+moving:  Z
+mFrom:  6
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 3
+moving:  S
+mFrom:  6
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 4
+moving:  G
+mFrom:  6
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 5
+moving:  S
+mFrom:  6
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 6
+LOOP #: 6
+
+
+LINE
+moving:  B
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 1
+moving:  N
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 2
+moving:  C
+mFrom:  4
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 3
+LOOP #: 3
+
+
+LINE
+moving:  Z
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 1
+moving:  M
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 2
+moving:  P
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 3
+moving:  S
+mFrom:  0
+mTo:  6
+TOTAL TIMES SHOULD MOVE: 4
+LOOP #: 4
+
+
+LINE
+moving:  S
+mFrom:  1
+mTo:  7
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  G
+mFrom:  1
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  C
+mFrom:  2
+mTo:  3
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  L
+mFrom:  4
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
+
+
+LINE
+moving:  S
+mFrom:  7
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 1
+moving:  C
+mFrom:  7
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 2
+moving:  N
+mFrom:  7
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 3
+moving:  B
+mFrom:  7
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 4
+moving:  D
+mFrom:  7
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 5
+moving:  M
+mFrom:  7
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 6
+moving:  G
+mFrom:  7
+mTo:  5
+TOTAL TIMES SHOULD MOVE: 7
+LOOP #: 7
+
+
+LINE
+moving:  T
+mFrom:  2
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 1
+moving:  F
+mFrom:  2
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 2
+moving:  M
+mFrom:  2
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 3
+moving:  F
+mFrom:  2
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 4
+moving:  H
+mFrom:  2
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 5
+moving:  N
+mFrom:  2
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 6
+moving:  B
+mFrom:  2
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 7
+moving:  R
+mFrom:  2
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 8
+moving:  W
+mFrom:  2
+mTo:  1
+TOTAL TIMES SHOULD MOVE: 9
+LOOP #: 9
+
+
+LINE
+moving:  W
+mFrom:  7
+mTo:  4
+TOTAL TIMES SHOULD MOVE: 1
+LOOP #: 1
