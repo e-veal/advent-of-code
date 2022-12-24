@@ -1,7 +1,5 @@
 #!/usr/bin/python3
 
-import re
-
 #### Part 2
 
 print("****** PART 2 ******")

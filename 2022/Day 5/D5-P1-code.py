@@ -2,7 +2,6 @@
 
 # Second Guess: VWLCWGSD (Wrong)
 # Correct Answer: VWLCWGSDQ (Use redditer.py to check)
-import re
 
 #### Part 1
 
