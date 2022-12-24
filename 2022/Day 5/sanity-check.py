@@ -1,4 +1,4 @@
-# Check with junefish (https://www.reddit.com/r/adventofcode/comments/zcxid5/comment/iz83xsj/?utm_source=share&utm_medium=web2x&context=3)
+# Checked with junefish (https://www.reddit.com/r/adventofcode/comments/zcxid5/comment/iz83xsj/?utm_source=share&utm_medium=web2x&context=3)
 
 # initialise lists
 input = []
@@ -8,7 +8,7 @@ crate_stacks = []
 procedure = []
 
 # read input file
-with open('day05_input.txt', 'r') as file:
+with open('sanity-check.txt', 'r') as file:
     for line in file:
         input.append(line)
 
