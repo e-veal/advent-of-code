@@ -1,6 +1,6 @@
 # Day 3
 
-with open("input") as f:
+with open("D3-input.txt") as f:
     lines = f.readlines()
 
 N = len(lines[0].strip())  # Number of digits in the base-2 numbers
